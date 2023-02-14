@@ -1,9 +1,19 @@
 
 
-![last version](https://user-images.githubusercontent.com/34421612/218631759-e2a4c6da-8602-45ea-ad68-32bf9926e764.gif)
+![header](https://capsule-render.vercel.app/api?type=soft&text=Daehwan%Yoo&color=f7efe9)
+
+## Hi there 👋
+Good day! I am Daehwan Yoo (Danny Yoo) and I am junior majoring in Computer Science Honors.
 <br>
-### Hi there 👋
-Good day! 
+## 📊GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daehwanyoo&theme=dark)](https://github.com/daehwanyoo/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daehwanyoo&theme=dark)](https://github.com/daehwanyoo/github-readme-stats)
+
+## 💻Tech Stack
+
+
+
+
 
 
 <!--
