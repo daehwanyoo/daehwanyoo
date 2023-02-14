@@ -1,4 +1,10 @@
+
+
+![last version](https://user-images.githubusercontent.com/34421612/218631759-e2a4c6da-8602-45ea-ad68-32bf9926e764.gif)
+<br>
 ### Hi there 👋
+Good day! 
+
 
 <!--
 **daeHwan-Yoo/daeHwan-Yoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +12,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...![Uploading ezgif.com-crop.gif…]()
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
