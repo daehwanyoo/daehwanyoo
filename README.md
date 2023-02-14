@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=soft&text=Daehwan%Yoo&color=f7efe9)
+![header](https://capsule-render.vercel.app/api?type=soft&color=f7efe9&text=Daehwan%Yoo)
 
 ## Hi there 👋
 Good day! I am Daehwan Yoo (Danny Yoo) and I am junior majoring in Computer Science Honors.
