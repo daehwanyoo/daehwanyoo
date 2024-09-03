@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=f7efe9&text=DaeHwan%Yoo)
 
 ## Hi there 👋
-Good day! I am Daehwan Yoo (Danny Yoo) and I am junior majoring in Computer Science Honors.
+Good day! I am Daehwan (Daniel) Yoo and I am a senior majoring in Computer Science & Data Science at University of Michigan - Ann Arbor.
 <br>
 ## 📊GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daehwanyoo&theme=dark)](https://github.com/daehwanyoo/github-readme-stats)<br>
