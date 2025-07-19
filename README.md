@@ -4,12 +4,12 @@
 
 ## Hi there 👋
 Good day! I am Daehwan Yoo and I'm a University of Michigan graduate in CS & DS. I led a multimodal AI stress detection project and published a paper as first author. I'm now the founding ML Engineer at KASGAA, building production-level web and mobile apps from the ground up. I also recently released an app, Dies Tempo, focused on musical tempo control.
-
+<!--
 
 <br>
 ## 📊GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daehwanyoo&theme=dark)](https://github.com/daehwanyoo/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daehwanyoo&theme=dark)](https://github.com/daehwanyoo/github-readme-stats)
+-->
 
 ## 💻Tech Stack
 ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white)
